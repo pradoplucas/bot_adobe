@@ -3,6 +3,8 @@ Needed:
 - Beautiful Soup: pip install beautifulsoup4;
 - pdfkit: pip install pdfkit.
 
+Video: https://drive.google.com/file/d/15UfrifvAaXTU2PCWBU5DWMH07y8Vg-gG/view?usp=sharing
+
 Steps:
 1. Open the https://www.certmetrics.com/adobe/;
 2. Go to "Test Results" page;
